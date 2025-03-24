@@ -21,4 +21,14 @@
 [Second Webite](https://www.pluralsight.com/resources/blog/tech-operations/top-windows-troubleshooting-tools)
 
 [Third Website](https://www.techrepublic.com/article/how-to-detect-bad-ram-with-the-windows-memory-diagnostic-tool/)
+
+## The more clarification in my own words:-
+
+1. Open Windows Memory Diagnostic :-  right-click the Start icon and choose Run or click the Search icon,
+
+2. Begin the diagnostic :- Select Restart now ,the tool will launch and run the memory test.
+
+3. Review the diagnostic progress :- When the computer restarts, you will see a blue screen, which will track the testing progress. You can press F1 to change the test options or let it run with the standard settings
+
+4. View the completed results. :- Once the test is complete, Windows will continue to start, and after a few minutes, you may see a pop-up showing the results.
  
