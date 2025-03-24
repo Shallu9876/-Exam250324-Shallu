@@ -17,6 +17,7 @@ For the second part of this task, you need to get tutorials to help the user to 
 [3rd LInk File Explorer : More information](https://www.customguide.com/windows-10/file-explorer)
 
 ## The site which is good to use.
- Basically in mentioned links , there is more reliable information about file explorer but which i found the best is first  one links.The first and foremost reason is this video site clarifies each and every point side by side with different headings of toolbar.
+ Basically in mentioned links , there is more reliable information about file explorer but which i found the best is first  one .The first and foremost reason is,  this video site clarifies each and every point side by side with different headings of toolbar.
  secondly i also use this channel to clarify my own problems regarding to the system.
+ Rather than other here a video editor provides infomatiom from 0 to end.
 
