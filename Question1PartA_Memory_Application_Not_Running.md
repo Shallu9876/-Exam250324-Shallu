@@ -3,6 +3,8 @@
 
 ## Question_to_Ask
 ### 1. What version of excel are you using right now?
+
+Excel for Microsoft 365 MSO (Version 2501 Build 16.0.18429.20132) 32-bit 
 ### 2. is any other application runs into the computer?
 
 Yes, the Chrome is running with 300 new tabs.
@@ -10,3 +12,6 @@ Yes, the Chrome is running with 300 new tabs.
 
 Yes, the latest version of window that i am using right now is windows 11.
 ### 4. How much the RAM does system have?
+
+its is crucial to make sure that you have  enough space or memory to troubleshoot effectively.
+
