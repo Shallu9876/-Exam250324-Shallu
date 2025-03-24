@@ -14,4 +14,8 @@ Yes, the latest version of window that i am using right now is windows 11.
 ### 4. How much the RAM does system have?
 
 its is crucial to make sure that you have  enough space or memory to troubleshoot effectively.
+### Here i mentioned an email to get more information to clear this harsh scenario.
+
+## 1. Here is a website
+## 2. [Here is a video link to more clearence](https://www.youtube.com/watch?v=nDO_sS6JtmY&t=291s)
 
