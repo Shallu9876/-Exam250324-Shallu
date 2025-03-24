@@ -17,4 +17,11 @@
 [Second Website Printer software problem
 ](https://support.hp.com/ca-en/document/ish_1716406-1413451-16)
 
+## The more Clarification in my own words.
+
+1. firstly, you have to oepn control panel to repair and get the results.
+2. Then you select Programs>Prpgrams and features .
+3. The dialog box appeares, under the organize section you will see list of software
+4. Right-click the program you want to fix and select Repair, or if that’s not available, select Change. Then follow the directions on the screen.
+
 
