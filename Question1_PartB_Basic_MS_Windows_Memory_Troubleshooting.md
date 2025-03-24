@@ -3,10 +3,15 @@
 ### For troubleshooting memory problems in windows,there are a few crurcial steps to follow:-
 
 1 Elevate virtual memory.
+
 2 Update Device Driver.
+
 3. Check the task mamager.
+ 
 4. check memory space.
+ 
 5. Diagnose the other trouble issue.
+ 
 6. Update the window and version of software.
 
 ### Here are the 3 websites that i mentioned which clarify the problem in briefly.
