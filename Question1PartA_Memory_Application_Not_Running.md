@@ -22,5 +22,5 @@ its is crucial to make sure that you have  enough space or memory to troubleshoo
 ### In this 2 URL I have found more information to fix this problem.
 1. Here is a information about to "Not Enough Memory" problem.
 2. By visiting to the site it is not a big deal i guess as on the links there is more data to understand the problem
-3. it a problem about 
-4. 
+3. it a problem about version , window updation, running another apps in background  and some dynamic change settins etc.
+4. i found that both URL are best suits to this problem.
