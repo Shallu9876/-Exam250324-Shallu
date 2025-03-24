@@ -2,8 +2,8 @@
 
 ### For troubleshooting memory problems in windows,there are a few crurcial steps to follow:-
 
-1. Elevate virtual memory.
-2. Update Device Driver.
+1 Elevate virtual memory.
+2 Update Device Driver.
 3. Check the task mamager.
 4. check memory space.
 5. Diagnose the other trouble issue.
@@ -16,3 +16,4 @@
 [Second Webite](https://www.pluralsight.com/resources/blog/tech-operations/top-windows-troubleshooting-tools)
 
 [Third Website](https://www.techrepublic.com/article/how-to-detect-bad-ram-with-the-windows-memory-diagnostic-tool/)
+ 
