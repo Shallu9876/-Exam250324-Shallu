@@ -8,7 +8,7 @@
 
 ## Part 2 : Windows file Explorer Training
 
-For the second part of this task, you need to get tutorials to help the user to give more relevant information how to use window explorer.
+For the second part of this task, you need to get tutorials to help the user to give more relevant information how to use window explorer more effectively.
 
 [1st Link File Explorer Tips and trcks](https://www.youtube.com/watch?v=OUH3SLBNZyY&t=485s)
 
