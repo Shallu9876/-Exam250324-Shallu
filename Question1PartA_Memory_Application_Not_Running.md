@@ -16,6 +16,11 @@ Yes, the latest version of window that i am using right now is windows 11.
 its is crucial to make sure that you have  enough space or memory to troubleshoot effectively.
 ### Here i mentioned a website or video link to get more information to come out from this harsh scenario.
 
-## 1. [Here is a website](https://www.groovypost.com/howto/fix-the-excel-out-of-memory-error/)
+## 1. [Here is a website](https://www.makeuseof.com/windows-excel-not-enough-memory-error/)
 ## 2. [Here is a video link to more clearence](https://www.youtube.com/watch?v=nDO_sS6JtmY&t=291s)
 
+### In this 2 URL I have found more information to fix this problem.
+1. Here is a information about to "Not Enough Memory" problem.
+2. By visiting to the site it is not a big deal i guess as on the links there is more data to understand the problem
+3. it a problem about 
+4. 
