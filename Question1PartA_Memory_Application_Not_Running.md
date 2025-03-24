@@ -7,4 +7,6 @@
 
 Yes, the Chrome is running with 300 new tabs.
 ### 3. window updates?
+
+Yes, the latest version of window that i am using right now is windows 11.
 ### 4. How much the RAM does system have?
