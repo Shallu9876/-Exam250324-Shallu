@@ -1,6 +1,6 @@
 ## To help users to familiar his/her about how to use window explorer to find the files.
 
-## Thre are the 3 helpful tutotials to guide on how to navigate the file explorer.
+## Thre are the 3 helpful tutotials to guide on how to navigate the file in file explorer.
 
 1. [Microsoft support - File Explorer](https://support.microsoft.com/en-us/windows/find-your-files-in-windows-5c7c8cfe-c289-fae4-f5f8-6b3fdba418d2#:~:text=under%20Best%20match.-,Search%20File%20Explorer%3A%20Open%20File%20Explorer%20from%20the%20taskbar%20or,only%20for%20files%20stored%20there.) A good guide to navigate the issue.
 
